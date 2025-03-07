@@ -1,60 +1,7 @@
-//* Data types define the type of values that a variable can hold.
-
-//====> Types of Primitive Data types
-
-// Number: Represents numeric values, including integers and floating-point numbers.
-// var myFavNum = -5;
-// console.log(myFavNum);
-
-// String: Represents a sequence of characters enclosed in single or double quotes.
-// var myName = 'vinod';
-// console.log(myName);
-
-// Boolean: Represents a logical entity with two values: true or false.
-// var isRaining = false;
-// var areYouAwesome = true;
-// console.log(isRaining);
-
-// undefined: Represents the absence of a value or an uninitialized variable.
-// var vinod;
-// console.log(vinod);
-
-// Null: Represents the absence of a value. It is often used to explicitly indicate that a variable or object property has no assigned value.
-// var badMemories = null;
-// console.log(badMemories);
-
-// BigInt: Represents integers of arbitrary precision (available since ECMAScript 2020).
-// const bigNumber = 1234567890123456789012345678901234567890n;
-
-// Symbol: Represents a unique and immutable data type, often used to create unique identifiers.
-// const mySymbol = Symbol("description");
-
-
-
-// ============= Data Types Interview Questions ========================
+ 
  
 
-//==> 1: What is the difference between null and undefined in JavaScript?
-
-// null: Imagine an Empty Box
-// //* Explanation: Think of a variable as a box. When we say a box has null inside, it's like having an empty box. The box exists, but there's nothing valuable or meaningful inside it.
-
-// undefined: Imagine a Box That Wasn't Opened Yet
-//* Explanation: Now, if we talk about undefined, it's like having a box that you haven't opened yet. You know the box is there, but you haven't put anything inside or looked to see what's in it.
  
-
-//==> 2: What is the purpose of typeof operator in JavaScript?
-
-// var myName = 1;
-// console.log(myName);
-// console.log(typeof myName);
-
-//? 3: What is the result of `typeof null` in JavaScript?
-// var badMemories = null;
-// console.log(badMemories);
-// console.log(typeof null);
-
-//? 4: What are primitive data types in JavaScript?
 
 //? 5: Convert a string to a number?
 // We just need to add the '+' sign before the string
