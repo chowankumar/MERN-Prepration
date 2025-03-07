@@ -111,8 +111,7 @@ console.log(parseInt("1.9"));
  console.log(parseInt("@#$"));
 ```
 
-* NaN === NaN returns false in JavaScript is that NaN (Not a Number) is a special value that is not considered equal to any other value, even to itself. This is part of the IEEE 754 standard
-
+* NaN === NaN returns false in JavaScript is that NaN (Not a Number) is a special value that is not considered equal to any other value, even to itself. This is part of the IEEE 754 standard.
 
 
 
