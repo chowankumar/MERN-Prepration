@@ -2,43 +2,37 @@
 
 //====> Types of Primitive Data types
 
-//? Number: Represents numeric values, including integers and floating-point numbers.
-// Example:
+// Number: Represents numeric values, including integers and floating-point numbers.
 // var myFavNum = -5;
 // console.log(myFavNum);
 
-//? String: Represents a sequence of characters enclosed in single or double quotes.
-// Example:
+// String: Represents a sequence of characters enclosed in single or double quotes.
 // var myName = 'vinod';
 // console.log(myName);
 
-//? Boolean: Represents a logical entity with two values: true or false.
-// Example:
+// Boolean: Represents a logical entity with two values: true or false.
 // var isRaining = false;
 // var areYouAwesome = true;
 // console.log(isRaining);
 
-//? undefined: Represents the absence of a value or an uninitialized variable.
-// Example:
+// undefined: Represents the absence of a value or an uninitialized variable.
 // var vinod;
 // console.log(vinod);
 
-//? Null: Represents the absence of a value. It is often used to explicitly indicate that a variable or object property has no assigned value.
-// Example:
+// Null: Represents the absence of a value. It is often used to explicitly indicate that a variable or object property has no assigned value.
 // var badMemories = null;
 // console.log(badMemories);
 
-//? BigInt: Represents integers of arbitrary precision (available since ECMAScript 2020).
-// Example:
+// BigInt: Represents integers of arbitrary precision (available since ECMAScript 2020).
 // const bigNumber = 1234567890123456789012345678901234567890n;
 
-//? Symbol: Represents a unique and immutable data type, often used to create unique identifiers.
-// Example:
+// Symbol: Represents a unique and immutable data type, often used to create unique identifiers.
 // const mySymbol = Symbol("description");
 
-//! ============================
-//! Data Types Interview Questions
-//! ============================
+
+
+// ============= Data Types Interview Questions ========================
+ 
 
 //==> 1: What is the difference between null and undefined in JavaScript?
 
