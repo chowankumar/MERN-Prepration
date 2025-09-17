@@ -6,13 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <p id="para">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam neque officia dolor fuga numquam nisi id explicabo consequuntur porro ullam?
-    </p>
+       <button id="button">click me</button>
     <script>
-        let text = document.getElementById('para')
-        text.textContent = "this is the changed text of the paragraph"
+        var button = document.getElementById("button")
+        button.addEventListener('click',()=>{
+            console.log("hello this is chowan malhani")
+        })
     </script>
 </body>
-
 </html>

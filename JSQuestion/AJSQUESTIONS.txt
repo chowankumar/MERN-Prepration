@@ -1,0 +1,23 @@
+1 console.log("Hello World");
+2 Print the numbers from 1 to 5 to the console using a loop.
+3 Write a function to add two numbers and return the result.
+4 Create a function to calculate the area of a rectangle given its width and height.
+5 Write a function that takes a string and returns the reversed version of it.
+6 Write a function that checks if a number is even or odd and returns "Even" or "Odd" accordingly.
+7 Create a program that checks if a given year is a leap year.
+8 Find the sum of all elements in an array.
+9 Create an object representing a car with properties like make, model, and year.Add a method to the car object to start the engine.
+10 Change the text of a paragraph on a webpage using JavaScript.
+11 Create a button dynamically and add it to the webpage. 
+12 Add a click event listener to a button that displays an alert when clicked.
+13 Write a function that calculates the factorial of a given number.
+14 Create a function that generates a random number between a given range.
+15 Write a function that takes an array of numbers and returns a new array with only the even numbers.
+16 Use `map()` to double all the elements in an array.
+17 Find the largest element in an array using the `reduce()` method.
+18 Remove all occurrences of a specific element from an array.\
+19 Create a function that displays the current date and time in a specific format.
+20 Implement a try-catch block to handle an error that occurs during API data fetching.
+21 Write a recursive function to calculate the factorial of a given number.
+22 Implement a recursive function to find the nth Fibonacci number.
+23 Create a counter function using closures that increments and returns the count on each call.
