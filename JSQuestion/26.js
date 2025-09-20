@@ -20,3 +20,5 @@ function main(){
 }
 
 main();
+
+// CallBack : A function passed as an argument to another function to be executed after a task completes.

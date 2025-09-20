@@ -22,3 +22,7 @@ console.log(`Total Value of ${product2.name}: $${totalValue2}`)
 console.log(Product.prototype);
 
 console.log(product1)
+
+// Prototype : An object from which other objects inherit methods and properties.
+// this : refers to the current object instance being created.
+// Using .prototype allows you to share the method across all instances instead of defining it separately for each one (saves memory).
